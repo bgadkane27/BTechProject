@@ -139,11 +139,11 @@ a {
     color: var(--white-color);
     background-color: var(--btn-color);
     transition: .5s linear;
-    border-radius: 0rem 2rem 0 2rem;
-    -webkit-border-radius: 0rem 2rem 0 2rem;
-    -moz-border-radius: 0rem 2rem 0 2rem;
-    -ms-border-radius: 0rem 2rem 0 2rem;
-    -o-border-radius: 0rem 2rem 0 2rem;
+    border-radius: 2rem 0 2rem 0;
+    -webkit-border-radius: 2rem 0 2rem 0;
+    -moz-border-radius: 2rem 0 2rem 0;
+    -ms-border-radius: 2rem 0 2rem 0;
+    -o-border-radius: 2rem 0 2rem 0;
     -webkit-transition: .5s linear;
     -moz-transition: .5s linear;
     -ms-transition: .5s linear;
@@ -153,11 +153,11 @@ a {
 .button a:hover {
     background-color: var(--btn-hover-color);
     box-shadow: 0rem .2rem 1.5rem .1rem var(--btn-color);
-    border-radius: 2rem 0rem 2rem 0rem;
-    -webkit-border-radius: 2rem 0rem 2rem 0rem;
-    -moz-border-radius: 2rem 0rem 2rem 0rem;
-    -ms-border-radius: 2rem 0rem 2rem 0rem;
-    -o-border-radius: 2rem 0rem 2rem 0rem;
+    border-radius: 0rem 2rem 0rem 2rem;
+    -webkit-border-radius: 0rem 2rem 0rem 2rem;
+    -moz-border-radius: 0rem 2rem 0rem 2rem;
+    -ms-border-radius: 0rem 2rem 0rem 2rem;
+    -o-border-radius: 0rem 2rem 0rem 2rem;
 }
 
 .paragraph-heading {
