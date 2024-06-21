@@ -14,4 +14,4 @@ The platform provides a user-friendly interface for students to browse, enroll, 
 - User-friendly interface
 
 ## Contact
-Baburao Adkane -bgadkane@gmail.com
+Baburao Adkane: bgadkane@gmail.com
